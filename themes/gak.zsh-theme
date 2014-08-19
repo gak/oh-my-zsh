@@ -1,3 +1,5 @@
+# GOOD farken
+
 PROMPT='%{$FG[106]%}%2~$(git_prompt_info) %{$FG[250]%}> %{$reset_color%}'
 
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$FG[240]%} [%{$FG[190]%}"
